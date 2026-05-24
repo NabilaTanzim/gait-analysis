@@ -16,10 +16,10 @@ We have designed a flexible smart insole prototype integrating multiple plantar 
 
 ## Sensor Placement
 Sensors placed at anatomically significant plantar zones:
--Sensor 1 (S1) : First Meta tarsal Head.
--Sensor 2 (S2) : Near second Meta tarsal Head.
--Sensor 3 (S3) : Base of 5th Metatarsal (Lateral Arch).
--Sensor 4 (S4) : Calcaneal Tuberosity(Heel)
+- Sensor 1 (S1) : First Meta tarsal Head.
+- Sensor 2 (S2) : Near second Meta tarsal Head.
+- Sensor 3 (S3) : Base of 5th Metatarsal (Lateral Arch).
+- Sensor 4 (S4) : Calcaneal Tuberosity(Heel)
 
 <img width="834" height="511" alt="image" src="https://github.com/user-attachments/assets/7ca63d9d-eb92-4408-8c90-2f80e99b69af" />
 
