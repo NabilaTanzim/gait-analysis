@@ -2,7 +2,7 @@
 A user friendly low cost wearable gait analysis prototype for basic gait monitoring using FSR sensors and accelerometers.
 
 ##Overview
-We ahve designed a  flexible smart insole prototype integrating multi pleplantar pressure sensors and an ADXL accelerometer to measure pressure distribution and foot motion during gait cycles. 
+We have designed a flexible smart insole prototype integrating multiple plantar pressure sensors and an ADXL accelerometer to measure pressure distribution and foot motion during gait cycles. 
 
 ## Hardware
 | Component | Role |
