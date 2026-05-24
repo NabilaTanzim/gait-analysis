@@ -42,9 +42,7 @@ voltage divider model and FSR conductance curve.
 
 - Pressure heatmap showing anatomically 
   accurate load distribution
-  <img width="343" height="527" alt="image" src="https://github.com/user-attachments/assets/9f6ae269-13b2-4759-81e7-a219b1d7c832" />
-
-  <img width="451" height="542" alt="image" src="https://github.com/user-attachments/assets/66e38424-001a-4eb1-9f2c-5c0bbdefe3f9" />
+  <img width="343" height="527" alt="image" src="https://github.com/user-attachments/assets/9f6ae269-13b2-4759-81e7-a219b1d7c832" /> <img width="451" height="542" alt="image" src="https://github.com/user-attachments/assets/66e38424-001a-4eb1-9f2c-5c0bbdefe3f9" />
 
   
 - Acceleration curves matching expected kinematic patterns 
