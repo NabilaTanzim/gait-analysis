@@ -40,7 +40,7 @@ voltage divider model and FSR conductance curve.
   <img width="818" height="370" alt="image" src="https://github.com/user-attachments/assets/58eaf602-a50e-4a78-a809-87ec528f3c1a" />
   [A: Before stepping, B: Heel strike, C: Flat position, D: Start of heel off, E: Full heel off, F: Toe off]
 
-- Gaussian-filtered pressure heatmap showing anatomically 
+- Pressure heatmap showing anatomically 
   accurate load distribution
   <img width="343" height="527" alt="image" src="https://github.com/user-attachments/assets/9f6ae269-13b2-4759-81e7-a219b1d7c832" />
 
