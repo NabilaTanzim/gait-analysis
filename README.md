@@ -36,8 +36,9 @@ voltage divider model and FSR conductance curve.
 
 ## Results
 - Identified all major gait phases: heel strike, foot flat, heel off, toe off, swing
-  
-  <img width="818" height="370" alt="image" src="https://github.com/user-attachments/assets/58eaf602-a50e-4a78-a809-87ec528f3c1a" />
+
+  <img width="1218" height="535" alt="image" src="https://github.com/user-attachments/assets/f0f1390b-847f-491d-9748-b28b84095041" />
+
   
   [A: Before stepping, B: Heel strike, C: Flat position, D: Start of heel off, E: Full heel off, F: Toe off]
 
@@ -49,8 +50,8 @@ voltage divider model and FSR conductance curve.
 
   
 - Acceleration curves matching expected kinematic patterns per gait phase
-  
-  <img width="819" height="450" alt="image" src="https://github.com/user-attachments/assets/54a79071-024d-4542-91f4-9119fe9cc815" />
+
+  <img width="1220" height="655" alt="image" src="https://github.com/user-attachments/assets/e8439b5d-b8d5-463d-a7a7-63a0b2ff2286" />
   
   [A: Before stepping, B: Heel strike, C: Flat position, D: Start of heel off, E: Full heel off, F: Toe off]
 
