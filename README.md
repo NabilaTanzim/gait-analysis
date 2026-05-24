@@ -54,6 +54,8 @@ voltage divider model and FSR conductance curve.
   
   [A: Before stepping, B: Heel strike, C: Flat position, D: Start of heel off, E: Full heel off, F: Toe off]
 
+   **Note:** Data collected from a single subject as a proof of concept.
+
 ## Team
 Nabila Tanzim Tahwa · Tahera Tabassum Afreen · Ilma Binta Alim    
 Department of Robotics and Mechatronics Engineering, University of Dhaka
