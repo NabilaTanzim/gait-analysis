@@ -56,6 +56,5 @@ voltage divider model and FSR conductance curve.
 
 ## Team
 Nabila Tanzim Tahwa · Tahera Tabassum Afreen · Ilma Binta Alim    
-Department of Robotics and Mechatronics Engineering
-University of Dhaka
+Department of Robotics and Mechatronics Engineering, University of Dhaka
 
